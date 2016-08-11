@@ -1,7 +1,7 @@
-{
-    "name": "losai",
-    "version": "0.0",
-    "author": "Cherag Bhagwagar <cheragnb@gmail.com>",
-    "license": "LGPL",
-    "description": "smaller text for 16x16 matrix"
+{  
+   "name":"losai",
+   "version":"0.0",
+   "author":"Cherag Bhagwagar <cheragnb@gmail.com>",
+   "license":"LGPL",
+   "description":"smaller text for 16x16 matrix"
 }
